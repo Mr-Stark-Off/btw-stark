@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @Vikas9901
-- 👀 I’m interested in Programming
+- 👋 Hi, its STARK here.
+- 👀 I’m interested in Programming, Vid/Img editing and Music.
 - 🌱 I’m currently learning HTML,CSS,JS and PYTHON
-- 📫 To reach me vikashkumar7355523@gmail.com
+- 📫 To reach me sr7blackbirds@gmail.com
 
 <!---
 Vikas9901/Vikas9901 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
